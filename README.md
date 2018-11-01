@@ -8,3 +8,5 @@ We stand with Richard Stallman and his original vision of software being bevelop
 Today, that vision has become little more than a mirage: Linux, once a bastion of technological freedom, has been quietly co-opted by large corporations that have shown, time and time again, that their interests do not align with building a better world for all individuals.
 
 In practical terms, CanvasOS is aimed at offering the very best free software, emphasizing the use of native virtualization to allow users the use of proprietary software without compromising their security and privacy. The goal is to offer users a true "canvas", a base with very small resource footprint that can scale from low-powered smartphones all the way to the largest of supercomputers.
+
+As of now, we're discussing the specs of the OS and what parts can be brought over from other open source projects, and what needs to be developed. So, you won't find any code here yet. Instead, please head over to the "Wiki" section, where we'll be ironing out all the details before we start putting CanvasOS together.
